@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url("../images/memphis-mini.png");
+    background-position: center 0;
+    
+}
+
+
+#intro {
+    background: #e1e1e1 !important;
+    /* max-width: 992px !important; */
+    margin: 3rem auto 3rem auto !important;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+hr {
+    background-color: #fff;
+    border: 0 none;
+    color: #fff;
+    height: 2px;
+    width: 95%;
+}
+
+h1 {
+    font-size: 32px !important;
+    letter-spacing: 0.5px;
+}
+
+h5 {
+    font-size: 16px !important;
+    font-weight: 200;
+    letter-spacing: 0.5px;
+    line-height: 120%;
+}
